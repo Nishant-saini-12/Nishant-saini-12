@@ -10,8 +10,10 @@ Hi 👋, I'm Nishant Saini
 
 
 ## 🌐 Socials:
+[nishantsainiii123@gmail.com](mailto:nishantsainiii123@gmail.com)
+<br>
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/nishant_saini_21)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishant_saini_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-saini-455682295) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishantsainiii123@chitkara.edu.in) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-saini-455682295) 
 
 <!-- Snake Game Repo View -->
 
